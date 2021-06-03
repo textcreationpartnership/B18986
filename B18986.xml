@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties gracious message for peace, December, 5th, to the two Houses of Parliament at Westminister with the answer of both Houses to Sir Thomas Glemham : together with His Majesties second message, Decem. 15. 1645.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18986</idno><idno type="EEBO-CITATION">19318754</idno>
+  <idno type="VID">205527</idno>
+  <idno type="EEBO-PROQUEST">2248554209</idno>
+  
+            <idno type="STC">Wing C2325</idno>
+            <idno type="OCLC">19318754</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18986)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205527)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1683:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties gracious message for peace, December, 5th, to the two Houses of Parliament at Westminister with the answer of both Houses to Sir Thomas Glemham : together with His Majesties second message, Decem. 15. 1645.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>June 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205527:1"/>
+            <pb facs="tcp:205527:1"/>
+            <p>HIS MAJESTIES GRACIOUS MESSAGE FOR PEACE, DECEMBER. 5<seg rend="sup">th</seg>. To the Two Houses of Parliament at <hi>WESTMINSTER.</hi>
+            </p>
+            <p>With the Answer of both Houses to Sir THOMAS GLEMHAM.</p>
+            <p>Together with His <hi>MAJESTIES</hi> second MESSAGE, <hi>Decem.</hi> 15. 1645.</p>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>Leonard Lichfield,</hi> Printer to <hi>the Vniversity.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:205527:2"/>
+            <pb n="1" facs="tcp:205527:2"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <signed>CHARLES R.</signed>
+                  </opener>
+                  <p>
+                     <hi>HIs Majesty being deeply sensi<g ref="char:EOLhyphen"/>ble of the Continuation of this blou<g ref="char:EOLhyphen"/>dy and unnaturall Warre, cannot thinke himselfe discharg'd of the Duty he owes to God, or the Affection and regard he hath to the preservation of His People, without the constant application of His earnest en<g ref="char:EOLhyphen"/>deavours to find some expedient for the speedy ending of these unhappy Distracti<g ref="char:EOLhyphen"/>ons, if that may be, doth therefore desire, That a safe Conduct may be forthwith sent, for the Duke of</hi> Richmond, <hi>the Earle of</hi> Southampton, Iohn Ashburnham <hi>and</hi> Ieffery Palmer <hi>Esquires, and their
+<pb n="2" facs="tcp:205527:3"/>Attendants, with Coaches, Horses, and o<g ref="char:EOLhyphen"/>ther Accommodations for their Journey to</hi> Westminster, <hi>during their stay there, and return when they shall think fit. Whom His Majesty intends to send to the Lords and Commons. Assembled in the Parlia<g ref="char:EOLhyphen"/>ment of</hi> England <hi>at</hi> Westminster, <hi>and the Commissioners of the Parliament of</hi> Scotland, <hi>furnish'd with such Propositi<g ref="char:EOLhyphen"/>ons, as His Majesty is confident will be the Foundation of a happy and well grounded Peace.</hi>
+                  </p>
+                  <closer>
+                     <dateline>Given at the Court at <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi>
+                        <date> the fifth of <hi>December,</hi> 1645.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>For the Speaker of the House of Peers, <hi>pro tempore.</hi>
+                  </trailer>
+               </body>
+            </floatingText>
+            <p>This Gracious Message came to <hi>Westminster</hi> De<g ref="char:EOLhyphen"/>cember 6<seg rend="sup">th</seg>, where he that brought it was detain'd five dayes, and at last sent back without any Answer at all to His MAJESTY; only these few words were written to S<seg rend="sup">r</seg>
+               <hi>Thomas Glemham</hi> Governour of <hi>Ox<g ref="char:EOLhyphen"/>ford.</hi>
+            </p>
+            <pb n="3" facs="tcp:205527:3"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <hi>WE have received your Letter of the</hi> 5<seg rend="sup">th</seg>
+                     <hi>of this instant</hi> December, <hi>with His Majesties inclosed, and have sent back your Trumpet by command of both Houses who will with all convenient speed return an answer to his Majestie, and rest</hi>
+                  </p>
+                  <closer>
+                     <signed>Your loving Friends <hi>Grey</hi> of <hi>Wark</hi> Speaker of the House of Peeres <hi>Pro Tempore. William Lonthal</hi> Speaker of the House of Commons.</signed>
+                  </closer>
+                  <trailer>For S<seg rend="sup">r</seg>
+                     <hi>Thomas Glemham</hi> Governour of <hi>Oxford.</hi>
+                  </trailer>
+               </body>
+            </floatingText>
+            <p>This was all, after so many dayes expectation; which is indeed neither Answer nor Excuse, being on<g ref="char:EOLhyphen"/>ly a Concession of nothing at present, and an intimati<g ref="char:EOLhyphen"/>on that for future (when themselves judge it <hi>conveni<g ref="char:EOLhyphen"/>ent</hi>) They will grant or deny. Notwithstanding all manner of difficulties and pretences, His Sacred Ma<g ref="char:EOLhyphen"/>jesty hath againe sent to them a second Message, where all the World will testifie His Pious unwearied de<g ref="char:EOLhyphen"/>sires for Peace, whereof this following is a perfect Copy.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <signed>CHARLES R.</signed>
+                  </opener>
+                  <p>
+                     <hi>HIs Majestie cannot but extreamly wonder, that after so many expres<g ref="char:EOLhyphen"/>sions on your part of a deep and seeming sence of the miseries of this afflicted King<g ref="char:EOLhyphen"/>dome,
+<pb n="4" facs="tcp:205527:4"/>and of the dangers incident to His Person during the continuance of this un<g ref="char:EOLhyphen"/>naturall Warre, your many great and so often repeated Protestations, that the rai<g ref="char:EOLhyphen"/>sing of these Armes hath been only for the necessarie defence of Gods true Religion, His Majesties Honour, Safetie, and pros<g ref="char:EOLhyphen"/>peritie, the Peace, comfort and security of His People, you should delay a safe Con<g ref="char:EOLhyphen"/>duct to the Persons mentioned in His Ma<g ref="char:EOLhyphen"/>jesties Message of the fifth of this instant</hi> December, <hi>which are to be sent unto you with Propositions for a well grounded Peace: A thing so farre from having been denyed at any time by His Majestie when<g ref="char:EOLhyphen"/>soever you have desired the same, that He beleeves it hath been seldome (if ever) practised among the most avowed and pro<g ref="char:EOLhyphen"/>fessed Enemies, much lesse from Subjects to their King. But His Majestie is resolved, that no discouragements whatsoever shall
+<pb n="5" facs="tcp:205527:4"/>make Him faile of His part in doing His uttermost endeavours to put an end to these Calamities, which if not in time prevented, must prove the ruine of this unhappie Na<g ref="char:EOLhyphen"/>tion; And therefore doth once again desire, that a safe Conduct may be forthwith sent for those Persons expressed in His former Message, and doth therefore conjure you, as you will answer to Almightie God in that day when he shall make inquisition for all the Bloud that hath, and may yet be spilt in this unnaturall Warre, as you tend<g ref="char:EOLhyphen"/>er the preservation and establishment of the true Religion; by all the Bonds of Dutie and Allegiance to your King or Compassion to your bleeding and unhappie Countrie, and of Charitie to your selves, that you dis<g ref="char:EOLhyphen"/>pose your hearts to a true sence, and imploy all your faculties in a more serious endea<g ref="char:EOLhyphen"/>vour together with His Majestie, to set a speedie end to these wasting Divisions, and
+<pb n="6" facs="tcp:205527:5"/>then he shall not doubt, but that God will yet againe give the blessing of Peace to this distracted Kingdom.</hi>
+                  </p>
+                  <closer>
+                     <dateline>Given at the Court at Oxford,<date> the 15<seg rend="sup">th</seg> of Decem<g ref="char:EOLhyphen"/>ber, 1645.</date>
+                     </dateline>
+                     <hi>For the Speaker of the House of Peers,</hi> pro tempore.</closer>
+               </body>
+            </floatingText>
+            <p>This Gracious Message hath yet received no An<g ref="char:EOLhyphen"/>swer, though now 'tis a Fortnight since His Majesties first Message. All that is desired is only a safe Con<g ref="char:EOLhyphen"/>duct for such as should come with Propositions for Peace: sure their Thoughts are farre from an Ac<g ref="char:EOLhyphen"/>commodation, who refuse that any should aske it of them, or bring it to them. God in his due time will reward such as truly seek Peace, and recompence those that delight in Bloud.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:205527:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
